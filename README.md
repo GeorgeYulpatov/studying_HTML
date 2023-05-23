@@ -1,2 +1,2 @@
-# studying_HTML
+# studying_HTML  & CSS
 Копирование веб страницы в целях изучения.
